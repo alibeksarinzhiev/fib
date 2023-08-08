@@ -67,7 +67,7 @@ header{
     display: block;
     width: 14px;
     height: 16px;
-    background: url("../image/.png")center/cover no-repeat;
+    background: url("../image/star.png")center/cover no-repeat;
     position: absolute;
     top: -7%;
     right: -17px;
@@ -160,5 +160,4 @@ header{
 }
 .new{
     padding: 71px 0 60px;
-    opacity: 100;
 }
