@@ -162,3 +162,31 @@ header{
     padding: 71px 0 60px;
     opacity: 100;
 }
+.section2__icon h2{
+    font-size: 44px;
+    justify-content: center;
+    /*left: 50%;*/
+    text-align: center;
+}
+.new__box{
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.new__cards__nes{
+    width: 40%;
+    display: flex;
+}
+
+.new__cards__nes div {
+    display: flex;
+    gap: 30px;
+    margin-left: 30px;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.section2__icon span {
+    color: #F7D22D;
+}
