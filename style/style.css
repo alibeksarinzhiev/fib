@@ -161,3 +161,47 @@ header{
 .new{
     padding: 71px 0 60px;
 }
+.section2 h3{
+    margin: 46px 0 26px;
+    font-size: 24px;
+    font-weight: 700;
+    color: #F7D22D;
+}
+.box__menu{
+    display: flex;
+    justify-content: space-between;
+}
+.pizza__menu{
+    width: 253px;
+}
+.pizza__menu h4{
+    margin-top: 8px;
+    font-size: 24px;
+    font-weight: 800;
+    color: #797979;
+}
+.pizza__menu p{
+    margin-top: 14px;
+    font-size: 13px;
+    font-weight: 500;
+    color: #686466;
+}
+.pizza__coin{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 31px;
+
+}
+.pizza__coin h4{
+    font-size: 22px;
+    font-weight: 700;
+    color: black;
+}
+.pizza__coin button{
+    width: 126px;
+    height: 36px;
+    border-radius: 8px;
+    background: #F7D22D;
+    color: white;
+    border: none;
+}
