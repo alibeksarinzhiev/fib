@@ -1,4 +1,5 @@
 .delivery__sec {
+<<<<<<< HEAD
   margin-top: 45px;
 }
 
@@ -48,3 +49,46 @@ form div input {
   width: 30%;
   background: yellow;
 }
+=======
+    margin-top: 45px;
+}
+
+.delivery__sec h3 {
+    margin-bottom: 30px;
+}
+
+.delivery__wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.order__form__wrapper {
+    width: 60%;
+}
+
+.order__form__wrapper form div {
+    display: flex;
+    align-items: center;
+    margin-bottom: 14px;
+    justify-content: space-between;
+}
+
+form div label {
+    opacity: 0.7;
+    font-size: 17px;
+    font-weight: 600;
+}
+ 
+form div input {
+    width: 500px;
+    border-radius: 7px;
+    border: none;
+    outline: none;
+    border: 1.5px solid #E2E2E9;
+    padding: 10px 10px 10px 19px;
+}
+
+.compound__wrapper {
+    width: 30%;
+}
+>>>>>>> 3b80913eab4ec46ae46833a49200d1a5fa0a5386
